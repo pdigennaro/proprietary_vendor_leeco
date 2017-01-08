@@ -306,6 +306,7 @@ PRODUCT_COPY_FILES +=  \
     vendor/leeco/x2/proprietary/lib/libarcsoft_smart_denoise.so:system/lib/libarcsoft_smart_denoise.so \
     vendor/leeco/x2/proprietary/lib/libBD_asr_model_cmn-Hans-CN_v1_camera.so:system/lib/libBD_asr_model_cmn-Hans-CN_v1_camera.so \
     vendor/leeco/x2/proprietary/lib/libcamera_letv_algo.so:system/lib/libcamera_letv_algo.so \
+    vendor/leeco/x2/proprietary/lib/libcameraservice.so:system/lib/libcameraservice.so \
     vendor/leeco/x2/proprietary/lib/libLetvCameraImageSDK.so:system/lib/libLetvCameraImageSDK.so \
     vendor/leeco/x2/proprietary/lib/libmm-qcamera.so:system/lib/libmm-qcamera.so \
     vendor/leeco/x2/proprietary/lib/libmmcamera_interface.so:system/lib/libmmcamera_interface.so \
