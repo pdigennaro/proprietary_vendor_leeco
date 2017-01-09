@@ -844,6 +844,7 @@ PRODUCT_COPY_FILES +=  \
     vendor/leeco/x2/proprietary/vendor/lib/libdsutils.so:system/vendor/lib/libdsutils.so \
     vendor/leeco/x2/proprietary/vendor/lib/libfastcvadsp_stub.so:system/vendor/lib/libfastcvadsp_stub.so \
     vendor/leeco/x2/proprietary/vendor/lib/libfastcvopt.so:system/vendor/lib/libfastcvopt.so \
+    vendor/leeco/x2/proprietary/vendor/lib/libflash_i2c.so:system/vendor/lib/libflash_i2c.so \
     vendor/leeco/x2/proprietary/vendor/lib/libflash_pmic.so:system/vendor/lib/libflash_pmic.so \
     vendor/leeco/x2/proprietary/vendor/lib/libI420colorconvert.so:system/vendor/lib/libI420colorconvert.so \
     vendor/leeco/x2/proprietary/vendor/lib/libidl.so:system/vendor/lib/libidl.so \
@@ -1016,6 +1017,7 @@ PRODUCT_COPY_FILES +=  \
     vendor/leeco/x2/proprietary/vendor/lib/libWVStreamControlAPI_L1.so:system/vendor/lib/libWVStreamControlAPI_L1.so \
     vendor/leeco/x2/proprietary/vendor/lib/libxml.so:system/vendor/lib/libxml.so \
     vendor/leeco/x2/proprietary/vendor/lib/mediadrm/libwvdrmengine.so:system/vendor/lib/mediadrm/libwvdrmengine.so \
+    vendor/leeco/x2/proprietary/vendor/lib/mmi_flashlight.so:system/vendor/lib/mmi_flashlight.so \
     vendor/leeco/x2/proprietary/vendor/lib/rfsa/adsp/libapps_mem_heap.so:system/vendor/lib/rfsa/adsp/libapps_mem_heap.so \
     vendor/leeco/x2/proprietary/vendor/lib/rfsa/adsp/libdspCV_skel.so:system/vendor/lib/rfsa/adsp/libdspCV_skel.so \
     vendor/leeco/x2/proprietary/vendor/lib/rfsa/adsp/libfastcvadsp.so:system/vendor/lib/rfsa/adsp/libfastcvadsp.so \
@@ -1171,6 +1173,7 @@ PRODUCT_COPY_FILES +=  \
     vendor/leeco/x2/proprietary/vendor/lib64/libxtwifi_ulp_adaptor.so:system/vendor/lib64/libxtwifi_ulp_adaptor.so \
     vendor/leeco/x2/proprietary/vendor/lib64/libyep_qmi_client.so:system/vendor/lib64/libyep_qmi_client.so \
     vendor/leeco/x2/proprietary/vendor/lib64/libyep_qmi_server.so:system/vendor/lib64/libyep_qmi_server.so \
+    vendor/leeco/x2/proprietary/vendor/lib64/mmi_flashlight.so:system/vendor/lib64/mmi_flashlight.so \
     vendor/leeco/x2/proprietary/vendor/lib64/qfp.wakeup.so:system/vendor/lib64/qfp.wakeup.so \
     vendor/leeco/x2/proprietary/vendor/lib64/sensors.hal.tof.so:system/vendor/lib64/sensors.hal.tof.so \
     vendor/leeco/x2/proprietary/vendor/lib64/sensors.oem.so:system/vendor/lib64/sensors.oem.so \
