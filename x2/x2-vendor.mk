@@ -322,6 +322,7 @@ PRODUCT_COPY_FILES +=  \
     vendor/leeco/x2/proprietary/lib/libqti_performance.so:system/lib/libqti_performance.so \
     vendor/leeco/x2/proprietary/lib/libvpplibrary.so:system/lib/libvpplibrary.so \
     vendor/leeco/x2/proprietary/lib64/hw/fingerprint.msm8996.so:system/lib64/hw/fingerprint.msm8996.so \
+    vendor/leeco/x2/proprietary/lib64/libparam.so:system/lib64/libparam.so \
     vendor/leeco/x2/proprietary/lib64/libloc_ds_api.so:system/lib64/libloc_ds_api.so \
     vendor/leeco/x2/proprietary/lib64/libqti-iop.so:system/lib64/libqti-iop.so \
     vendor/leeco/x2/proprietary/lib64/libqti_performance.so:system/lib64/libqti_performance.so \

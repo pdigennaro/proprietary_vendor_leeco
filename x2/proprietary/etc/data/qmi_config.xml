@@ -1,10 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
 <!--
      QMI Module configuration XML file
      Copyright (c) 2013-2015 Qualcomm Technologies, Inc.  All Rights Reserved.
      Qualcomm Technologies Proprietary and Confidential.
 -->
 
-<?xml version="1.0" encoding="UTF-8"?>
 
 <!-- QMI configuration -->
 <list name="qmi_config">
@@ -488,6 +488,7 @@
   <listitem name = "fusion_8096_9x55_pcie">
     <data name="single_qmux_ch" type="int"> 1 </data>
     <data name="control_ports_len" type="int"> 2 </data>
+    <data name="use_qmuxd" type="int"> 1 </data>
 
     <list name="conn_str">
       <data type="string"> QMI_PORT_RMNET_MHI_0 </data>
