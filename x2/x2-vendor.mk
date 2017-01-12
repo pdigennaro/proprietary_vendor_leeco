@@ -295,6 +295,7 @@ PRODUCT_COPY_FILES +=  \
     vendor/leeco/x2/proprietary/framework/QtiTelephonyServicelibrary.jar:system/framework/QtiTelephonyServicelibrary.jar \
     vendor/leeco/x2/proprietary/framework/tcmclient.jar:system/framework/tcmclient.jar \
     vendor/leeco/x2/proprietary/lib/hw/camera.msm8996.so:system/lib/hw/camera.msm8996.so \
+    vendor/leeco/x2/proprietary/lib/libamipengine.so:system/lib/libamipengine.so \
     vendor/leeco/x2/proprietary/lib/libarcimgutils.so:system/lib/libarcimgutils.so \
     vendor/leeco/x2/proprietary/lib/libarcimgutilsbase.so:system/lib/libarcimgutilsbase.so \
     vendor/leeco/x2/proprietary/lib/libarcsoft_beautyshot.so:system/lib/libarcsoft_beautyshot.so \
