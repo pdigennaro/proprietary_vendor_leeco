@@ -151,7 +151,6 @@ PRODUCT_COPY_FILES += \
     vendor/leeco/x2/proprietary/etc/firmware/widevine.b06:system/etc/firmware/widevine.b06 \
     vendor/leeco/x2/proprietary/etc/firmware/widevine.mbn:system/etc/firmware/widevine.mbn \
     vendor/leeco/x2/proprietary/etc/firmware/widevine.mdt:system/etc/firmware/widevine.mdt \
-    vendor/leeco/x2/proprietary/etc/firmware/wlan/qca_cld/WCNSS_cfg.dat:system/etc/firmware/wlan/qca_cld/WCNSS_cfg.dat \
     vendor/leeco/x2/proprietary/etc/mixer_paths_letv.xml:system/etc/mixer_paths_letv.xml \
     vendor/leeco/x2/proprietary/etc/qvop/antispoofing.bin:system/etc/qvop/antispoofing.bin \
     vendor/leeco/x2/proprietary/etc/qvop/cmudict.bin:system/etc/qvop/cmudict.bin \
@@ -166,8 +165,10 @@ PRODUCT_COPY_FILES += \
     vendor/leeco/x2/proprietary/etc/stargate/wakeup/templates/template_real.bin:system/etc/stargate/wakeup/templates/template_real.bin \
     vendor/leeco/x2/proprietary/etc/surround_sound_3mic/surround_sound_rec_AZ.cfg:system/etc/surround_sound_3mic/surround_sound_rec_AZ.cfg \
     vendor/leeco/x2/proprietary/etc/wifi/fstman.ini:system/etc/wifi/fstman.ini \
+    vendor/leeco/x2/proprietary/lib64/hw/audio.primary.msm8996.so:system/lib64/hw/audio.primary.msm8996.so \
     vendor/leeco/x2/proprietary/lib64/hw/fingerprint.msm8996.so:system/lib64/hw/fingerprint.msm8996.so \
     vendor/leeco/x2/proprietary/lib64/libminui.so:system/lib64/libminui.so \
+    vendor/leeco/x2/proprietary/lib/hw/audio.primary.msm8996.so:system/lib/hw/audio.primary.msm8996.so \
     vendor/leeco/x2/proprietary/lib/hw/camera.msm8996.so:system/lib/hw/camera.msm8996.so \
     vendor/leeco/x2/proprietary/lib/libamipengine.so:system/lib/libamipengine.so \
     vendor/leeco/x2/proprietary/lib/libarcimgutilsbase.so:system/lib/libarcimgutilsbase.so \
@@ -738,8 +739,6 @@ PRODUCT_COPY_FILES += \
     vendor/leeco/x2/proprietary/lib64/libparam.so:system/lib64/libparam.so \
     vendor/leeco/x2/proprietary/lib64/libqti_performance.so:system/lib64/libqti_performance.so \
     vendor/leeco/x2/proprietary/lib/libloc_ds_api.so:system/lib/libloc_ds_api.so \
-    vendor/leeco/x2/proprietary/lib/hw/audio.primary.msm8996.so:system/lib/hw/audio.primary.msm8996.so \
-    vendor/leeco/x2/proprietary/lib64/hw/audio.primary.msm8996.so:system/lib64/hw/audio.primary.msm8996.so \
     vendor/leeco/x2/proprietary/lib/libOmxVpp.so:system/lib/libOmxVpp.so \
     vendor/leeco/x2/proprietary/lib/libqti_performance.so:system/lib/libqti_performance.so \
     vendor/leeco/x2/proprietary/lib/libvpplibrary.so:system/lib/libvpplibrary.so \
