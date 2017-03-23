@@ -1070,7 +1070,9 @@ PRODUCT_PACKAGES += \
     colorservice \
     imssettings \
     qcnvitems \
-    qcrilhook
+    qcrilhook \
+    LetvRemoteControl_preinstall \
+    UEIQuicksetSDKLeTV
 endif
 
 -include vendor/extra/devices.mk
